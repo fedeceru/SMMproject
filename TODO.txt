@@ -1,4 +1,4 @@
-// Inizialmente identifico i canali dai quali estrapolare i commenti o reply di commenti che siano inerenti all'approdo di maldini nella dirigenza del milan, al suo licenziamento ed infine 
+// Inizialmente identifico i canali dai quali estrapolare i commenti o reply di commenti che siano inerenti all'approdo di maldini nella dirigenza del milan 
 // Il secondo passo sarà quello di salvare tali commenti e reply a commenti in un csv.
 // Penso a che tipo di relazioni voglio mostrare nel mio grafo su gephi e su cosa voglio soffermarmi.
 // Capisco come poter fare sentiment analysis sui commenti estrapolati, per comprendere che impatto emotivo abbia avuto l'approdo di maldini, il suo successivo licenziamento, ed infine ciò che ha partato al movimento #CardinaleOut
