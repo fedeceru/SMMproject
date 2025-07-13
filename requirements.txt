@@ -11,3 +11,6 @@ seaborn
 community
 python-louvain
 adjustText
+transformers 
+torch
+tiktoken
