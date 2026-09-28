@@ -1,2 +1,16 @@
 python-dotenv
 google-api-python-client
+networkx
+matplotlib
+notebook
+scipy
+numpy
+pandas
+statsmodels
+seaborn
+community
+python-louvain
+adjustText
+transformers 
+torch
+tiktoken
